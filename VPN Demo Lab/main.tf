@@ -11,14 +11,14 @@ provider "azurerm" {
   alias           = "virginia"
   features        {}
   environment     = "usgovernment"
-  subscription_id = "23752682-ecfe-481d-98a4-f6d457f67322"
+  subscription_id = "NEEDSTOBEUPDATED"
 }
 
 provider "azurerm" {
   alias           = "arizona"
   features        {}
   environment     = "usgovernment"
-  subscription_id = "23752682-ecfe-481d-98a4-f6d457f67322"
+  subscription_id = "NEEDSTOBEUPDATED"
 }
 
 locals {

@@ -2,7 +2,7 @@
 location = "usgovvirginia"
 
 ##MUST CHANGE BASE NAME
-base_name = "lmco"
+base_name = "msft"
 
 ###Subnets for Hubvnet need to be within hubvnet address range
 address_space_hubvnet = ["10.1.0.0/16"]
